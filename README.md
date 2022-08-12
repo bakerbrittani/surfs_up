@@ -11,5 +11,8 @@ Out of 1,700 total June temperature recordings, the average was 74.94 degrees, w
 ![Pic](JuneTemps.png)
 
 ### December
+Out of 1,517 total December temperature recordings, the average was 71.04 degrees, with a minimum of 56.00 degrees and a maximum of 83.00 degrees. 
+
+![Pic](DecTempsDF.png)
 
 ## Summary & Recommendations
